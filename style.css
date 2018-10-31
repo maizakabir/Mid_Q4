@@ -1,0 +1,23 @@
+.flex-container {
+  display: flex;
+  background-color: DarkSeaGreen;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 50px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.flex-containertwo {
+  display: flex;
+  background-color: Silver;
+}
+
+.flex-containertwo > div {
+  background-color: #f1f1f1;
+  margin: 60px;
+  padding: 20px;
+  font-size: 30px;
+}
